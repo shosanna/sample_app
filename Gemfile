@@ -31,5 +31,6 @@ group :test do
   gem 'capybara', '1.1.2'
   gem 'rb-fsevent', '0.9.1', :require => false
   gem 'growl', '1.0.3'
-   gem 'terminal-notifier-guard'
+  gem 'terminal-notifier-guard'
+  gem 'launchy'
 end
